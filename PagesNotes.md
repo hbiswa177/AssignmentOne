@@ -22,3 +22,7 @@
     - if not, all the pages will be in the same page regardless of where people clicks
 - Flow up with the professor about the headings: whether it should be clikable or not?
 - or how do they want us to do it.
+
+- Bishal:
+- I tried to push my code to this project, but it was not accepting, so I uploaded my files in the main branch. I am off to work now, but I'll text you once I have chance. Text me if you have any questions.
+- 
